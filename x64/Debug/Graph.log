@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Global_minimum.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(477,40): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(477,49): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(531,40): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(531,49): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(592,40): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\MyForm.h(592,49): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graph.vcxproj -> D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Debug\Graph.exe

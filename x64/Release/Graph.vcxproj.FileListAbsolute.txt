@@ -1,0 +1,5 @@
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Release\Graph.MyForm.resources
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Release\Graph.vcxproj.GenerateResource.cache
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Release\Graph.vcxproj.CopyComplete
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Release\Graph.exe
+D:\Programming\DSS\Algorithm\Graphics-ZedGraph\x64\Release\ZedGraph.dll
